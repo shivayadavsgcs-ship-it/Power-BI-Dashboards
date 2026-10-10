@@ -73,3 +73,11 @@ An end-to-end interactive Power BI dashboard analyzing customer order patterns, 
 ## 🚀 How to View
 1. Download the `.pbix` file from this repository.
 2. Open it with **Power BI Desktop** to explore the interactive slicers and drill-downs.
+
+---
+
+## 📚 Project Documentation & Quality Review
+
+See [Project Overview and Audit Notes](docs/PROJECT_OVERVIEW.md) for the current dashboard inventory, project context, documentation gaps, recommended validation steps, and data-privacy considerations.
+
+> **Portfolio privacy reminder:** Before sharing this repository publicly, review dashboards that contain personal or financial information and publish only data you are authorized to disclose.
